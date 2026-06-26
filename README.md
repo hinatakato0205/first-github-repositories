@@ -11,3 +11,8 @@ alias lpw='ls -l;pwd;whoami'
 
 ## じつは
 ここでも編集できます
+
+今日も今日とてLinux
+
+検索するコマンド
+find . -type d -name ".git"

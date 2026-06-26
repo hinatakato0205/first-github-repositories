@@ -16,3 +16,8 @@ alias lpw='ls -l;pwd;whoami'
 
 検索するコマンド
 find . -type d -name ".git"便利そうだな
+
+・systemctlコマンドの勉強
+・killでプロセスを停止した
+・firewalldを止めるときは注意が必要
+・実行中のプロセスはctrl+zで一時停止が出来る
